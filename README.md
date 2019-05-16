@@ -18,7 +18,7 @@ Page: [https://council.nyc.gov/data/fix-the-system/](https://council.nyc.gov/dat
     - Sources:
       * [NYPD Stop, Question & Frisk Data](https://www1.nyc.gov/site/nypd/stats/reports-analysis/stopfrisk.page)
       
- 2. The script creating the data behind the __Adult Male Arrest Rate by Population, 2018__ [visual](https://newyorkcitycouncil.github.io/datavis/templates/barhorizontal32) data can be [found here](https://github.com/NewYorkCityCouncil/morejustnyc/blob/master/scripts/arrest_population_analysis.ipynb).
+ 2. The script creating the data behind the __Adult Male Arrest Rate by Population, 2018__ [visual](https://newyorkcitycouncil.github.io/datavis/templates/barhorizontal32) can be [found here](https://github.com/NewYorkCityCouncil/morejustnyc/blob/master/scripts/arrest_population_analysis.ipynb).
     - Sources:
       * [NYPD Arrest Data (Year to Date)](https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc)
       * [U.S. Census Bureau, 2013-2017 American Community Survey 5-Year Estimates](https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_17_5YR_B03002&prodType=table)
